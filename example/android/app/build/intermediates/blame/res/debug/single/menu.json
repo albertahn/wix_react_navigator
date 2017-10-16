@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/stub.xml"
+    }
+]

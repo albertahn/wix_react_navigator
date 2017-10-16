@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/img_delete.png",
+        "source": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/src/main/res/drawable-xhdpi/img_delete.png"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/img_swap.png",
+        "source": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/src/main/res/drawable-xhdpi/img_swap.png"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/img_edit.png",
+        "source": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/src/main/res/drawable-xhdpi/img_edit.png"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/img_list.png",
+        "source": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/src/main/res/drawable-xhdpi/img_list.png"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/img_transform.png",
+        "source": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/src/main/res/drawable-xhdpi/img_transform.png"
+    }
+]

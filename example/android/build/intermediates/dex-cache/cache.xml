@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/623db303d1cc9eb6ae763578e3b6f12674057d7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_6d4ec488a935bc0bb9f0ff0f7f3f5cd5fdb1c785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/d0346a79c3a84cf210921a18704e2c8e7e328fa2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_009997d3c434a460f75080d238563cec862ca275.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/5119059907ac30823fd17f107801a2d5338b9679/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_05e321b83b653c89a2bc4ca5418c2b45a2d1f6b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/10ef03b0000f55424cc8281f183e742eeddc38cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_052152db6682d7a09f7db3f88d4c399d8a272ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/8fdac9109817d1e9f449a460b788821da0284714/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_14ffcd9dbf7853d314a670550e5f7cc6e20e6c12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_8e770b23cda9b258446d8edfc01ac2fdb7c99955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/396d18f836fc05268651fe822f4255424c7a76c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_da5aa808104781a6a4938aeb273dc9e7288270fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/3b2e5db9e0e31f6d3ccc3a5c4e6eebe8b6044382/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_730130bd00b6fb743627aabbb075339c04b05122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/7838419924314e4c4d054ddea31a1297a60844e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_f86e121a36100c5da492169ddca56475c363f463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/3285beabe8765206ce502bf49795bb2b269f86b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_faa070737dd5b1436b97605dad2efee55efe6e49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/5e2aabbc6b208c0c7dc7d8f98f7ec4ceea1eacea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_1065c9cbf774920bacd299f53b9f425ae1719a6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_9dd8bcd97e200c214a4aabc2d9832f02fbc52ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/0b9b1a36b0be5ad4b9ce106abe2749e570b4ee46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_c3b54f10becca56133fd341c87990b7dbe63040f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_51e1b95f69aa0c1d61e667737379f28968e61b24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="834a3d04b62e8837254f97a53269397147e936a7">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_d3419b388a10e513f63f45d279be71d03a6a83d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/d10fb9466b5905377af309f7e7ff0db1542a2965/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_932187df1f274a6c66dc10dace0245af7d525a36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/9bc36444571ae8ab2405ca67463c24a4867c0547/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_057a5a5e525952ccb8ed652ce15c5d83e7e0886c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_b6be46d541d40925019bcf405ae75c4f06226a88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_85789323041f3197a246e320db7c2804cec6d782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_966c32330a48ba491ef3cb4b1644019e5afbd662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/Documents/android_sdk/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_31f7f6f0f4609e52184ec5505742b074cbc82839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/1efac0812972846dbca0f07e2baf88bc8f8f0bb7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_c1f47aee0906944054a3331ebe5151faacaa68a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_d140423534f0f9163312ca4b0697674627cf9af3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_b234dfb0ea226e2ee5db01746c02e5916d359b96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/d355c2be1744f9d267b579dcfc8fcf4ec9963b74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_6a56be5e3c5942e67f0cb5d65e53cba1ab7e0797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/284090743e4b973026af89298a8d0f2e6e6600aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_aed04c07c36bdb5e70bfb0cfa4bc87cdbf789060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/e813257b5c5b46320500fc19a3ad3db010cfefa0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_54ee6d686cb98ad660b015a16b4840791e82c5c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/badd43e3234ebf3ad6fbbe33991c1ca345faa382/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_12224f4b82c1f304aa2eea69290ed83dccfeb926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/d10fb9466b5905377af309f7e7ff0db1542a2965/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_ea0d888c99452a3158bbabab005b95036e949e22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/b2d38ce65217bbbd1d5cb62cf79835ff67abb6e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_659e4a095107440213ed64ea7b9c6b76b331d5e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/6a37a4fbbdcb75c3dd898660f3692c4af8417409/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_1e6b1a68a723fae7e42040e914b8866c99e24f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/284c7fb1918f155fd493dff9117defed4a047c32/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_1fddac2cad8f1edd422641c80066906991e09d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_4543f413c7aa0df58ae58717853742b1e5d477b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_fb0b4b8712afbf9173ea5acf2f70d16b94c40311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/f301574f8e53c830f20711f7c180f336626e2e46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_879feab7392e6a66c935dc8d334fa46d82ec2626.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/albert/.android/build-cache/f04cea5b65a0335c50dc687a84df6f8673692a44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/pre-dexed/debug/classes_261b94fcc92fc4631ca517576a00fbcc899f7db3.jar" />
+    </item>
+
+</items>

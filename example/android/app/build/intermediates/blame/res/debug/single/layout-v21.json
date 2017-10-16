@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/Users/albert/.android/build-cache/1efac0812972846dbca0f07e2baf88bc8f8f0bb7/output/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/Users/albert/.android/build-cache/1efac0812972846dbca0f07e2baf88bc8f8f0bb7/output/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

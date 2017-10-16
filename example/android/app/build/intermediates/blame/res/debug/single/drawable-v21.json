@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/albert/.android/build-cache/10ef03b0000f55424cc8281f183e742eeddc38cd/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/item_background.xml",
+        "source": "/Users/albert/.android/build-cache/1efac0812972846dbca0f07e2baf88bc8f8f0bb7/output/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/albert/.android/build-cache/10ef03b0000f55424cc8281f183e742eeddc38cd/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/albert/.android/build-cache/10ef03b0000f55424cc8281f183e742eeddc38cd/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/albert/.android/build-cache/10ef03b0000f55424cc8281f183e742eeddc38cd/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

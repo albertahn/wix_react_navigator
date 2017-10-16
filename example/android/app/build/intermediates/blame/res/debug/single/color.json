@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/albert/.android/build-cache/10ef03b0000f55424cc8281f183e742eeddc38cd/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/albert/.android/build-cache/10ef03b0000f55424cc8281f183e742eeddc38cd/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/albert/Documents/albert_docs/react_native_tutorial/react-native-navigation-master/example/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/albert/.android/build-cache/840147f939db731bd50d3f20eebd14ca544b66bf/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    }
+]
